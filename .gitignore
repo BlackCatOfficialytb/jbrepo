@@ -1,7 +1,2 @@
-Packages
-Packages.bz2
-Packages.zst
-Packages.gz
-
 __pycache__/
 *.pyc
