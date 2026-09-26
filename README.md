@@ -1,2 +1,2 @@
 # jbrepo
-My personal GitHub Pages containing Jailbreak things
+My personal GitHub Pages containing deb things
