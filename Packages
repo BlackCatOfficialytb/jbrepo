@@ -1,0 +1,29 @@
+Package: ai.akemi.appsyncunified_116.0_iphoneos-arm
+Name: AppSync Unified (Rootful)
+Version: 166.0
+Architecture: iphoneos-arm
+Description: (Rehosted) Unified AppSync dynamic library for iOS 5 and above.
+Maintainer: Karen aka akemin-dayo <karen@akemi.ai> BlackCat <quanvm0501alt1@tutamail.com>
+Author: Karen aka akemin-dayo <karen@akemi.ai>
+Section: Tweaks
+Depends: mobilesubstrate | com.ex.substitute | ellekit, preferenceloader
+Filename: deb/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+
+Package: ai.akemi.appsyncunified_116.0_iphoneos-arm64
+Name: AppSync Unified (Rootless)
+Version: 166.0
+Architecture: iphoneos-arm64
+Description: (Rehosted) Unified AppSync dynamic library for iOS 5 and above.
+Maintainer: Karen aka akemin-dayo <karen@akemi.ai> BlackCat <quanvm0501alt1@tutamail.com>
+Author: Karen aka akemin-dayo <karen@akemi.ai>
+Section: Tweaks
+Depends: mobilesubstrate | com.ex.substitute | ellekit, preferenceloader
+Filename: deb/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 49472
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
+SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
