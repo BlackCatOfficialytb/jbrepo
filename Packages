@@ -2,7 +2,7 @@ Package: ai.akemi.appsyncunified_116.0_iphoneos-arm
 Name: AppSync Unified (Rootful)
 Version: 166.0
 Architecture: iphoneos-arm
-Description: (Rehosted) Unified AppSync dynamic library for iOS 5 and above.
+Description: (Rehosted) Unified AppSync dynamic library for iOS 5 and above. License: GPLv3.
 Maintainer: Karen aka akemin-dayo <karen@akemi.ai> BlackCat <quanvm0501alt1@tutamail.com>
 Author: Karen aka akemin-dayo <karen@akemi.ai>
 Section: Tweaks
