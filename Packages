@@ -27,3 +27,18 @@ Size: 49472
 MD5sum: d6a31911e878b83e47c6525fa29ecef1
 SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
 SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
+
+Package: p3.xyz.yyyue.esign
+Name: ESign (with AppSync Unified)
+Version: 5.0.2
+Architecture: iphoneos-arm64
+Description: ESign App - Sign and install IPA files on iOS.
+Maintainer: Yyyue <yyyue@xyz.p3>
+Author: Yyyue
+Section: Applications
+Depends: mobilesubstrate | com.ex.substitute | ellekit, preferenceloader
+Filename: deb/p3.xyz.yyyue.esign_5.0.2_iphoneos-arm64.deb
+Size: 7227461
+MD5sum: c98369219fdb96db847a8df8cf6dd1f4
+SHA1: 5b411e3da02915068b8ede46e893ae041b6d2798
+SHA256: f78b331cdca23c0a3e91356ff7a4e6eda8de0a52c47cd46dd0b989bdebd72576
